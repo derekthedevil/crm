@@ -3,7 +3,7 @@ import CustomInput from "../components/CustomInput"
 const ForgotPassword = () => {
   return (
     <>
-    <div className="py-5" style={{background:'#0f1538', minHeight:'100vh'}} >
+    <div className="py-5" style={{background:"radial-gradient(#ccc, #2b3642)", minHeight:'100vh'}} >
     <br />
     <br />
     <br />
